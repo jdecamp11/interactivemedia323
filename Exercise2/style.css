@@ -1,4 +1,11 @@
 body {
 	color: white;
 	background: black;
+	font-family: Arial black;
+	font-size:15px;
 }
+
+div{
+	    height: 250px;
+    width: 100%;
+    }
