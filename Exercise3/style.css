@@ -11,7 +11,9 @@ body {
 
 
 #square {
-	position: center;
+	position: fixed;
+	bottom: 10px;
+	right:50px;
 	width: 700px;
 	height: 300px;
 	background: orange;
