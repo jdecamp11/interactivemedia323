@@ -3,6 +3,13 @@ splox{
 	display:block;
 }
 
+body {
+	color: white;
+	background: black;
+	font-family: Arial black;
+	font-size:15px;
+}
+
 
 #square {
 	width: 100px;
