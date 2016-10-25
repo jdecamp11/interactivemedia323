@@ -8,8 +8,10 @@ splox{
 
 #square {
 	position: relative;
+	top: 10px;
 	bottom: 10px;
 	left: 200px;
+	right: 200px;
 	width: 700px;
 	height: 300px;
 	background: orange;
