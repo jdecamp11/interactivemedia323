@@ -7,7 +7,7 @@ splox{
 
 
 #square {
-	position: relative;
+	position: fixed;
 	top: 10px;
 	bottom: 10px;
 	left: 200px;
