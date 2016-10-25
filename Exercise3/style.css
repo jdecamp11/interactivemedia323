@@ -4,15 +4,14 @@ splox{
 }
 
 body {
+	width: 700px;
 	color: white;
-	background: black;
-	font-family: Arial black;
-	font-size:15px;
+	background: #F5F5F5;
 }
 
 
 #square {
-	width: 100px;
-	height: 100px;
-	background: red;
+	width: 700px;
+	height: 500px;
+	background: orange;
 }
