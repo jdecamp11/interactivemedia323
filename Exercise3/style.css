@@ -4,6 +4,7 @@ splox{
 }
 
 body {
+	position: center;
 	width: 700px;
 	background: #F5F5F5;
 
