@@ -4,6 +4,7 @@ splox{
 }
 
 body {
+	position: relative;
 	width: 700px;
 	color: white;
 	background: #F5F5F5;
@@ -11,7 +12,7 @@ body {
 
 
 #square {
-	position: static;
+	position: absolute;
 	bottom: 10px;
 	right:200px;
 	width: 700px;
