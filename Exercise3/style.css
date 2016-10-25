@@ -2,3 +2,10 @@ splox{
 	background-color:orange;
 	display:block;
 }
+
+
+#square {
+	width: 100px;
+	height: 100px;
+	background: red;
+}
