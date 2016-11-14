@@ -1,0 +1,39 @@
+#head{
+	position: relative;
+	top: 75px;
+	left: 300px;
+}
+
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+#one{
+	position: relative;
+	left: 300px;
+}
+
+#blood{
+	position: relative;
+	top: 75px;
+	left: 300px;
+}
+
+#two{
+	position: relative;
+	left: 300px;
+}
+
+#for{
+	position: relative;
+	top: 75px;
+	left: 300px;
+}
+
+#three{
+	position: relative;
+	left: 300px;
+}

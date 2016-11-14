@@ -1,0 +1,33 @@
+#since{
+	position:relative;
+	left:250px;
+	top:100px;
+}
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+#wholly{
+	position:relative;
+	left:265px;
+	top:0px;
+}
+
+#approves{
+	position:relative;
+	left:250px;
+	top:-50px;
+}
+
+#cry{
+	float:right;
+}
+
+#laugh{
+	position: relative;
+	left: 250px;
+	top: 100px;
+}

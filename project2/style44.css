@@ -1,0 +1,35 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+#since{
+	position:relative;
+	float: left;
+	left: 50px;
+	line-height: 50px;
+	font-size: 25px;
+}
+
+#blood{
+	position:relative;
+	float: right;
+	right: 50px;
+	text-align: right;
+	line-height: 50px;
+		font-size: 25px;
+}
+
+#we{
+	position: relative;
+	top: 1000px;
+	text-align: center;
+	line-height: 100px;
+	font-size: 25px;
+}
+
+.for{
+	font-size: 75px;
+}

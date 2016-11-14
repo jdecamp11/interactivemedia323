@@ -1,0 +1,42 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+#one{
+	position: relative;
+	left: 400px;
+	letter-spacing: 12px;
+}
+
+.attn{
+	font-size: 21px;
+	font-weight: bold;
+	font-family: Georgia;
+}
+
+#blood{
+	position: relative;
+	left: 150px;
+	letter-spacing: 12px;
+}
+
+#dont{
+	position: relative;
+	left: 400px;
+	letter-spacing: 12px;
+}
+
+.attn2{
+	font-weight: bold;
+	font-family: Georgia;
+		font-size:36px;
+}
+
+#we{
+	position: relative;
+	left: 400px;
+
+}

@@ -1,0 +1,86 @@
+
+.nav{
+  position:fixed;
+  top: 25px;
+  right: 25px;
+}
+
+.hand{
+position: relative;
+left:100px;
+top: 700px;
+line-height: 50px;
+font-size: 25px;
+    transform: rotate(90deg);
+}
+
+.hand2{
+position: relative;
+left:100px;
+top: 100px;
+line-height: 50px;
+font-size: 25px;
+ transform: rotate(-90deg);
+}
+
+.space{
+line-height: 75px;
+}
+
+.swear{
+	position: relative;
+	left: 600px;
+	line-height: 12px;
+}
+
+.dont{
+	position: relative;
+	top: -200px;
+	left: 700px;
+	line-height: 12px;
+
+}
+
+
+@keyframes shake {
+  from, to {
+    transform: translate3d(0, 0, 0);
+  }
+
+  10%, 30%, 50%, 70%, 90% {
+    transform: translate3d(0, -30px, 0);
+  }
+
+  20%, 40%, 60%, 80% {
+    transform: translate3d(0, 30px, 0);
+  }
+}
+
+.shake {
+  animation-name: shake;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shaked {
+  from, to {
+    transform: translate3d(0, 0, 0);
+  }
+
+  10%, 30%, 50%, 70%, 90% {
+    transform: translate3d(-30px, -30px, 0);
+  }
+
+  20%, 40%, 60%, 80% {
+    transform: translate3d(30px, 30px, 0);
+  }
+}
+
+.shaked {
+  animation-name: shaked;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+
+

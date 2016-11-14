@@ -1,0 +1,76 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+.feel{
+	position:relative;
+	left: 445px;
+	top: -100px;
+	line-height: 20px;
+	font-weight: bold;
+	font-size: 32px;
+	letter-spacing: 12px;
+
+}
+
+.txt{
+		font-size: 32px;
+	letter-spacing: 12px;
+}
+
+.since{
+	position:relative;
+	left: 300px;
+	top: 100px;
+	line-height: 20px;
+	font-size: 32px;
+	letter-spacing: 12px;
+}
+
+.pays{
+	position: relative;
+	left: 110px;
+	top: 150px;
+}
+
+.since{
+	position:relative;
+	left: 300px;
+	top: 100px;
+	line-height: 20px;
+	font-size: 32px;
+	letter-spacing: 12px;
+}
+
+.never{
+	position: relative;
+	top: 400px;
+	left: 625px;
+
+}
+
+
+@keyframes slideInDown {
+  from {
+    transform: translate3d(0, -110%, 0);
+    visibility: visible;
+
+
+  }
+
+  to {
+    transform: translate3d(0, 0.5%, 0);
+    visibility: hidden;
+
+  }
+}
+
+.slideInDown {
+  animation-name: slideInDown;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}

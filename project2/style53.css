@@ -1,0 +1,37 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+.sf{
+	position: relative;
+	left: 175px;
+	top: 400px;
+	font-size: 50px;
+
+}
+
+.feel{
+	font-size: 150px;
+	font-style: italic;
+}
+
+.who{
+	position: relative;
+	letter-spacing: -100px;
+
+}
+
+.big{
+	position: relative;
+	left: 50px;
+	font-size: 150px;
+	font-style: italic;
+}
+
+.death{
+	position: relative;
+	left: 175px;
+}

@@ -1,0 +1,70 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+#one{
+	position: relative;
+	left: 250px;
+}
+
+#two{
+	position: relative;
+	left: 250px;
+	bottom: 100px;
+	font-size: 38px;
+	font-style: italic;
+	font-family:Georgia;
+	font-weight: normal;
+}
+
+#three{
+	position: relative;
+	left: 800px;
+	bottom: 700px;
+}
+
+.who{
+	position: relative;
+	font-size: 50px;
+	font-weight:bold;
+	font-style: italic;
+	bottom: 25px;
+	left: -50px;
+}
+
+.kiss{
+	position: relative;
+	left: 215px;
+	bottom: 40px;
+}
+
+.wholly{
+	position: relative;
+	left: 534px;
+	bottom: 60px;
+}
+
+.dont{
+	position: relative;
+	left: 500px;
+	bottom: 150px;
+}
+
+.best{
+	position: relative;
+	left: 200px;
+	bottom: 190px;
+	font-size: 45px;
+	font-family: Times;
+
+}
+
+.each{
+	position: relative;
+	bottom: 535px;
+	font-size: 200px;
+	line-height: 120px;
+}

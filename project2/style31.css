@@ -1,0 +1,48 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+#since{
+	position: relative;
+	border-style: dashed;
+	border-color: red;
+	width:200px;
+}
+
+#is{
+	position: relative;
+	right: -300px;
+	border-style: solid;
+	border-color: red;
+	width:150px;
+}
+
+#each{
+	position: relative;
+	right: -300px;
+	border-style: outset;
+	border-color: red;
+	width:400px;
+}
+
+#one{
+	position: relative;
+	width: 150px;
+}
+#two{
+	position: relative;
+	right: -250px;
+	left: 500px;
+	width: 150px;
+	top: -200px;
+}
+#laugh{
+	position: relative;
+
+	left: 350px;
+	width: 150px;
+	top: 50px;
+}
