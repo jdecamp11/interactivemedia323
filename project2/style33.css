@@ -1,0 +1,62 @@
+#first{
+	position: relative;
+	left: 275px;
+	top: 50px;
+}
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+#who{
+	position: relative;
+	border-style: solid;
+	border-color: red;
+	left: 250px;
+	padding: 25px;
+	width:150px;
+}
+
+#fool{
+	position: relative;
+	border-style: solid;
+	border-color: red;
+	left: 175px;
+	bottom: 50px;
+	padding: 25px;
+	width:150px;
+}
+
+#blood{
+	position: relative;
+	border-style: solid;
+	border-color: red;
+	left: 275px;
+	bottom: 150px;
+	padding: 25px;
+	width:150px;
+}
+
+#we{
+	position: relative;
+	left: 275px;
+	bottom: 270px;
+}
+
+#laugh{
+	position: relative;
+	border-style: solid;
+	border-color: red;
+	left: 350px;
+	bottom: 325px;
+	padding: 25px;
+	width:150px;
+}
+
+#life{
+	position: relative;
+	left: 275px;
+	bottom: 50px;
+}

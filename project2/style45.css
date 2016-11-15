@@ -1,0 +1,51 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+.left{
+	position: relative;
+	left: 300px;
+	line-height: 15px;
+	top: 100px;
+}
+
+.right{
+	position: relative;
+	left: 600px;
+	line-height: 15px;
+	top: 50px;
+}
+
+.one{
+	position:relative;
+	left: 50px;
+}
+
+.first{
+	position: relative;
+	left: 400px;
+	font-size: 40px;
+	font-style: italic;
+	top: 100px;
+}
+
+.sec{
+	position: relative;
+	left: 635px;
+	top: 54px;
+	font-size: 40px;
+	font-style: italic;
+
+}
+
+.lifedeath{
+	position: relative;
+	left: 800px;
+	bottom: 450px;
+	font-size: 100px;
+	font-weight: bolder;
+	color: #f2f2f2;
+}

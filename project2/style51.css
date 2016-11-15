@@ -1,0 +1,124 @@
+
+.nav{
+	position:fixed;
+	top: 25px;
+	right: 25px;
+}
+
+.feel{
+	position: relative;
+	font-size: 150px;
+	color:#f2f2f2;
+	font-weight: bold;
+	left:200px;
+}
+
+.first{
+	position: relative;
+	left:400px;
+	bottom: 650px;
+	line-height: 50px;
+
+
+}
+
+.for{
+	position: relative;
+	font-size: 150px;
+	color:#f2f2f2;
+	font-weight: bold;
+	left:500px;
+}
+
+.never{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 35px;
+	color: #737373;
+
+}
+
+.fool{
+	position: relative;
+	left:200px;
+	bottom: 825px;
+	font-size:21px;
+	font-weight: bolder;
+	line-height: 120px;
+
+}
+
+
+
+.blood{
+	position: relative;
+	left: 800px;
+	bottom: 1200px;
+	font-size: 100px;
+}
+
+.cry{
+	position: relative;
+	left: 300px;
+	bottom: 2000px;
+}
+.cry2{
+	position: relative;
+	left: 750px;
+	bottom: 2500px;
+}
+
+.cry3{
+	position: relative;
+	left: 1100px;
+	bottom: 3700px;
+}
+
+
+
+.lady{
+	position: relative;
+	left: 300px;
+	bottom: 3500px;
+	font-size: 70px;
+
+}
+
+.lady2{
+	position: relative;
+	left: 300px;
+	bottom: 3800px;
+	font-size: 70px;
+
+}
+
+.laugh{
+	position: relative;
+	letter-spacing: 7px;
+	line-height: 125px;
+	font-size: 48px;
+	left: 350px;
+	bottom: 3650px;
+}
+
+.life{
+	position: relative;
+	text-align: right;
+	font-size: 100px;
+	bottom: 3900px;
+	right: 200px;
+
+}
+
+
+.death{
+	position: relative;
+	text-align: center;
+	font-size: 50px;
+	bottom: 3500px;
+	left: 250px;
+
+
+
+}
+

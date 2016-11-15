@@ -1,0 +1,204 @@
+ .all{
+  position: relative;
+  top: 150px;
+ }
+
+ #rectangle {
+  position: relative;
+  top: 310px;
+  left: 110px;
+  width: 600px;
+  height: 5px;
+  background: red;
+      transform: rotate(35deg);
+}
+
+
+ .lv1{
+    position: relative;
+ }
+
+
+.oneset:hover {
+  opacity: 1;
+}
+
+.oneo{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  opacity: 1;
+}
+
+.onet{
+  position: relative;
+  top: -25px;
+  left: 10px;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+
+}
+
+.oneset{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  top: -25px;
+  opacity: 0;
+}
+
+.lv2{
+    position: relative;
+ }
+
+
+.twoset:hover {
+  opacity: 1;
+}
+
+.twoo{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  opacity: 1;
+}
+
+.twot{
+  position: relative;
+  top: -25px;
+  left: 10px;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+
+}
+
+.twoset{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  top: -25px;
+  opacity: 0;
+}
+
+.lv3{
+    position: relative;
+ }
+
+
+.threeset:hover {
+  opacity: 1;
+}
+
+.threeo{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  opacity: 1;
+}
+
+.threet{
+  position: relative;
+  top: -25px;
+  left: 10px;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+
+}
+
+.threeset{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  top: -25px;
+  opacity: 0;
+}
+
+.lv4{
+    position: relative;
+ }
+
+
+.fourset:hover {
+  opacity: 1;
+}
+
+.fouro{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  opacity: 1;
+}
+
+.fourt{
+  position: relative;
+  top: -25px;
+  left: 10px;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+
+}
+
+.fourset{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  top: -25px;
+  opacity: 0;
+}
+
+.lv5{
+    position: relative;
+ }
+
+
+.fiveset:hover {
+  opacity: 1;
+}
+
+.fiveo{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  opacity: 1;
+}
+
+.fivet{
+  position: relative;
+  top: -25px;
+  left: 10px;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+
+}
+
+.fiveset{
+  position: relative;
+  font-size: 25px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  top: -25px;
+  opacity: 0;
+}
+
+
+.back {-webkit-transform:rotateY(180deg);
+    -moz-transform:rotateY(180deg);
+    -o-transform:rotateY(180deg);
+    -ms-transform:rotateY(180deg);
+     transform:rotateY(180deg);
+     unicode-bidi:bidi-override;
+     direction:rtl;}
