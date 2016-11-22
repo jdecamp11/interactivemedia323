@@ -1,4 +1,4 @@
- .all{
+.all{
   position: relative;
   top: 150px;
  }
@@ -6,10 +6,9 @@
  #rectangle {
   position: relative;
   top: 310px;
- left:200px;
+ left:360px;
   width: 600px;
   height: 5px;
-  
   background: red;
       transform: rotate(35deg);
 }
