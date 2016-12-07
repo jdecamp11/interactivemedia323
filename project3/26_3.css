@@ -1,0 +1,38 @@
+.gouge{
+	position: relative;
+	left: 50px;
+	color: white;
+	font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif; 
+	font-size: 125px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.two :hover {
+  opacity: 1;
+  text-decoration: none;
+  color:#990000;
+
+}
+
+.two a {
+	opacity: 0;
+	text-decoration: none;
+  color:#990000;
+}
+
+.three :hover {
+  text-decoration: none;
+  color:#990000;
+
+}
+
+.three a {
+	text-decoration: none;
+	color: white;
+}
+
+body {
+    background-image: url("images/26_3.jpg");
+    background-repeat: repeat;
+}
