@@ -4,7 +4,7 @@
  }
 
  #rectangle {
-  position: relative;
+  position: absolute;
   top: 310px;
   left: 110px;
   width: 600px;
