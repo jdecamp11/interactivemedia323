@@ -3,6 +3,15 @@
     position: relative;
  }
 
+ #rectangle {
+  position: absolute;
+  top: 310px;
+  left: 110px;
+  width: 600px;
+  height: 5px;
+  background: red;
+      transform: rotate(35deg);
+}
 
 .oneset:hover {
   opacity: 1;
@@ -179,15 +188,6 @@
   opacity: 0;
 }
 
- #rectangle {
-  position: absolute;
-  top: 310px;
-  left: 110px;
-  width: 600px;
-  height: 5px;
-  background: red;
-      transform: rotate(35deg);
-}
 
 
 .back {-webkit-transform:rotateY(180deg);
